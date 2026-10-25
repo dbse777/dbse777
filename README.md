@@ -19,6 +19,12 @@ Somewhere between a warehouse and a terminal. I started out in logistics, wander
 
 Working on something interesting? Something cursed? Drop me a message 📨
 
+### When the terminal is closed
+
+- 🪁 Kitesurfing & wakeboarding – the only time I'm genuinely happy about strong wind
+- 🏂 Snowboarding – same thing, just with the water in solid form
+- 🎧 Music – my music library is tagged and sorted more carefully than most of my repos
+
 <!---
 dbse777/dbse777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
