@@ -21,7 +21,7 @@ Working on something interesting? Something cursed? Drop me a message 📨
 
 ### When the terminal is closed
 
-- 🪁 Kitesurfing & wakeboarding – the only time I'm genuinely happy about strong wind
+- 🪁 Wakeboarding & Kitesurfing – the only time I'm genuinely happy about strong wind
 - 🏂 Snowboarding – same thing, just with the water in solid form
 - 🎧 Music – my music library is tagged and sorted more carefully than most of my repos
 
